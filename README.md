@@ -1,4 +1,4 @@
-# Lista de Benefícios para Estudantes 👩‍🎓 👨‍🎓
+# Lista de Benefícios para Estudantes UFPR
 
 A vida de estudante pode ser desafiadora, mas também repleta de oportunidades! Encontrar recursos gratuitos ou com descontos é um alívio. Aqui está uma lista que pode facilitar sua jornada na graduação:
 
