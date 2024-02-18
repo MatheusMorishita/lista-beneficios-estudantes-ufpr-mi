@@ -52,7 +52,7 @@ A vida de estudante pode ser desafiadora, mas também repleta de oportunidades! 
 
 - [4Linux](https://4linux.com.br/cursos/cursos-starter/) - 06 cursos gratuitos.
 - [FIAP ON](https://on.fiap.com.br) - 20 cursos gratuitos.
-- [Coursera](https://www.coursera.org/for-university-and-college-students) - 01 curso gratuito por ano.
+- [Coursera](https://www.coursera.org) - tem uns descontos em cursos e alguns outros ficam de graça.
 - [Educative](https://www.educative.io/github-students) - 06 meses grátis.
 - [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/) - 06 meses grátis.
 - [GoRails](https://gorails.com/github-students) - 01 ano grátis.
