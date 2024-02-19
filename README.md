@@ -34,11 +34,14 @@ Aqui, gostaria de recomendar alguns sites e recursos benéficos que podem contri
 - [CamScanner](https://mo.camscanner.com/user/uniStuActivity) - 01 ano grátis.
 - [Miro](https://miro.com/education-whiteboard/) - 02 anos grátis.
 - [Pacote Adobe](https://www.adobe.com/br/creativecloud/buy/students.html) - R$86,00/mês (60% de desconto).
+- [Xournal](https://xournalpp.github.io/) - 100% gratutito. Software para anotações ou fazer rascunho, recomendo ele para rascunhar exercícios matemáticos, principalmente se tiverem uma mesa digitalizadora.
 
 ## Ferramentas para lives e gravação de vídeos
 
 - [Loom](https://www.loom.com/education) - 100% gratuito.
 - [StreamYard](https://streamyard.com/github-students) - 100% gratuito.
+- [OBS Studio](https://obsproject.com/pt-br/download) - 100% gratuito.
+- [Stream Labs](https://streamlabs.com/pt-br/?utm_source=google&utm_medium=cpc&utm_term=streamlabs&utm_campaign=%5BPr%3AS%5D%20%5BP%3AG%5D%20%5BC%3AS%5D%20%5BG%3AINTL%5D%20%5BF%3ANull%5D%20%5BI%3ANull%5D%20%5BCo%3ANull%5D%20%5BD%3ABrand%5D%20%5BA%3ANull%5D&utm_content=RSA&gad_source=1&gclid=EAIaIQobChMIkPHCgIm4hAMVAUFIAB3hJwELEAAYASAAEgIYofD_BwE) - 100% gratuito.
 
 ## Serviços para carreira profissional
 
