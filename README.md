@@ -1,14 +1,15 @@
-# Lista de Benefícios para Estudantes UFPR
+# Lista de Sites e Benefícios para Estudantes UFPR Graduando em Matemática Industrial
 
-A vida de estudante pode ser desafiadora, mas também repleta de oportunidades! Encontrar recursos gratuitos ou com descontos é um alívio. Aqui está uma lista que pode facilitar sua jornada na graduação:
+Aqui, gostaria de recomendar alguns sites e recursos benéficos que podem contribuir significativamente para o seu crescimento acadêmico na graduação de Matemática Industrial.
 
 ## Serviços para a área de computação
 
-- [GitHub Student Developer Pack](https://education.github.com/pack) - 100% gratuito.
-- [JetBrains IDE's](https://www.jetbrains.com/community/education/) - 100% gratuito.
-- [AutoDesk](https://www.autodesk.com/education/free-software) - 01 ano grátis.
-- [GitKraken](https://www.gitkraken.com/student-resources) - 100% gratuito.
-- [Tableau](https://www.tableau.com/academic/students) - 01 ano grátis.
+- [GitHub Student Developer Pack](https://education.github.com/pack) - 100% gratuito. Basta conectar seu e-mail UFPR no seu GitHUB para ter acesso a diversos benefícios do GitHUB PRO.
+- [JetBrains IDE's](https://www.jetbrains.com/community/education/) - 100% gratuito. Uma IDE paga no entanto ao se conectar com o e-mail ufpr ela se torna gratuito enquanto estiver com o e-mail ativo, uma IDE interessante para se utilizar.
+- [Visual Studio Code](https://code.visualstudio.com) - 100% gratuito. Outra IDE, particularmente entre outras IDE's prefiro o VSCode, por ser totalmente personalizável.
+- [AutoDesk](https://www.autodesk.com/education/free-software) - 01 ano grátis. Interessante para modelagens 3D, no entanto caso não seja por utilização pessoal, você dificilmente irá utilizar na graduação.
+- [GitKraken](https://www.gitkraken.com/student-resources) - 100% gratuito. Basicamente é uma interface para tentar facilitar os comandos do GIT.
+- [Tableau](https://www.tableau.com/academic/students) - 01 ano grátis. Software para Análise e Bussiness Inteligence, vale a pena aprender se deseja se aprofundar na área 
 - [Axure UX & RP](https://www.axure.com/education) - 02 anos grátis.
 - [DbVisualizer](https://www.dbvis.com/pricing/#academic) - 01 ano grátis.
 - [Astah UML](https://astah.net/products/free-student-license/) - 100% grátis.
