@@ -10,23 +10,25 @@ Aqui, gostaria de recomendar alguns sites e recursos benéficos que podem contri
 - [AutoDesk](https://www.autodesk.com/education/free-software) - 01 ano grátis. Interessante para modelagens 3D, no entanto caso não seja por utilização pessoal, você dificilmente irá utilizar na graduação.
 - [GitKraken](https://www.gitkraken.com/student-resources) - 100% gratuito. Basicamente é uma interface para tentar facilitar os comandos do GIT.
 - [Tableau](https://www.tableau.com/academic/students) - 01 ano grátis. Software para Análise e Bussiness Inteligence, vale a pena aprender se deseja se aprofundar na área 
-- [Axure UX & RP](https://www.axure.com/education) - 02 anos grátis.
-- [DbVisualizer](https://www.dbvis.com/pricing/#academic) - 01 ano grátis.
-- [Astah UML](https://astah.net/products/free-student-license/) - 100% grátis.
+- [Axure UX & RP](https://www.axure.com/education) - 1 ano grátis. Software para ferramentas UX
+- [DbVisualizer](https://www.dbvis.com/pricing/#academic) - Grátis enquanto estiver com matrícula ativa. Software para visualizar a manipular banco de dados 
+- [Astah UML](https://astah.net/products/free-student-license/) - 100% grátis. Software UML para representar visualmente a arquitetura, o design e a implementação de sistemas de software complexos.
 
 ## Ferramentas para computação em nuvem
 
 - [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - 01 ano grátis.
 - [Digital Ocean](https://www.digitalocean.com/github-students) - 01 ano grátis.
 
+*Usar apenas depois de saber o básico de computação na nuvem*
+
 ## Ferramentas de produtividade
 
-- [Notion](https://www.notion.so/students) - 100% gratuito.
+- [Notion](https://www.notion.so/students) - 100% gratuito. Uma ferramenta excepcional para acompanhar sua vida acadêmica. Com ele, você pode criar páginas personalizadas para qualquer finalidade e muito mais. Desde organizar notas e projetos até colaborar em equipe, o Notion oferece uma plataforma flexível e poderosa para gerenciar todos os aspectos da sua vida acadêmica e além.
 
 ## Ferramentas de Design/Edição de imagens
 
-- [Canva PRO](https://www.canva.com/education/students/) - 01 ano grátis.
-- [Figma](https://www.figma.com/education/) - 02 anos grátis, com possibilidade de renovação.
+- [Canva PRO](https://www.canva.com/education/students/) - 01 ano grátis. Um ótimo software editor de imagens e criar apresentações de trabalhos
+- [Figma](https://www.figma.com/education/) - 02 anos grátis, pode ser renovado enquanto estiver com matrícula ativa.
 - [Iconscout](https://iconscout.com/github-students) - 100% gratuito.
 - [Icon8](https://icons8.com.br/github-students) - 03 meses grátis.
 - [CamScanner](https://mo.camscanner.com/user/uniStuActivity) - 01 ano grátis.
