@@ -68,7 +68,7 @@ Aqui, gostaria de recomendar alguns sites e recursos benéficos que podem contri
 
 Como estudante da Universidade Federal do Paraná (UFPR), pode configurar um e-mail institucional para acessar serviços e se comunicar de forma oficial. Aqui está um guia passo a passo para criar o e-mail UFPR
 
-1. **Entre no site:** [Intranet-UFPR](https://intranet.ufpr.br/intranet/public/solicitacaoEmail!inputFormCPF.action;jsessionid=-zw6zikY0yAvwJiFgRUvqlX9.jboss04).
+1. **Entre no site:** [Sistemas - UFPR](https://sistemas.ufpr.br/public/solicitar-email).
 2. **Insira as Informações:** Insira o seu CPF e preencha corretamente o Captcha.
 3. **Conta:** Crie o email e coloque sua senha.
 4. **Aguarde:** Após criar uma solicitação do e-mail ufpr aguarde até que o e-mail seja criado.
